@@ -1,4 +1,4 @@
-### An elegant food ordering web application using Pure HTML ,CSS and JavaScript 
+### A responsive website for a fictional hotel, showcasing its rooms, high class security, conference room and booking functionality. This project demonstrates modern web design principles and includes interactive features for a seamless user experience
 - - - -
 ## :rocket: Tech Stack used: 
 - HTML
